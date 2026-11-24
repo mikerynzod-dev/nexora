@@ -1,0 +1,6 @@
+{
+  "name": "NEXORA — Future of Shopping",
+  "description": "Dark futuristic full-stack e-commerce platform for precision hardware, acoustic gear, wearables, and computing instruments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
